@@ -1,0 +1,3 @@
+[submodule "weather-widget"]
+	path = weather-widget
+	url = https://github.com/dherschberger/weather-widget.git
